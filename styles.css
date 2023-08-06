@@ -549,6 +549,7 @@ body {
 	top: 0;
 	left: 20px;
 	z-index: 9999;
+  margin-top: 50px;
 }
 
 .poster {
@@ -637,6 +638,11 @@ body {
 	text-transform: uppercase;
 	margin-bottom: 5px;
   font-size: 3.5rem;
+  margin-left: 50px;
+  color: #eee;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .ticket__movie-slogan {
